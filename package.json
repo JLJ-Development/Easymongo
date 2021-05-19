@@ -1,0 +1,20 @@
+{
+  "name": "@roseamelia/easymongo",
+  "version": "1.0.0",
+  "description": "@roseamelia/easymongo allows you to interact with mongodb easily.",
+  "main": "src/index.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "mongoose": "^5.12.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mongodb", "mongoose", "easymongo"],
+  "author": "Rose Amelia",
+  "repository": {
+    "url": "https://github.com/RoseAmelia/roseamelia-easymongo"
+  },
+  "license": "MIT"
+}
