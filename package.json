@@ -14,7 +14,7 @@
   "keywords": ["mongodb", "mongoose", "easymongo"],
   "author": "Rose Amelia",
   "repository": {
-    "url": "https://github.com/RoseAmelia/roseamelia-easymongo"
+    "url": "https://github.com/RoseAmelia/Easymongo"
   },
   "license": "MIT"
 }
